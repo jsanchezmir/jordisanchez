@@ -8,4 +8,4 @@ npx jordisanchez
 
 ### Output
 
-![alt text](https://gitlab.com/mgm793/presentation-card/-/raw/master/assets/output.png "Output")
+<!-- ![alt text](https://gitlab.com/mgm793/presentation-card/-/raw/master/assets/output.png "Output") -->

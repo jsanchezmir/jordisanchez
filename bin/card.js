@@ -32,9 +32,8 @@ function tranformContentToString(content){
     const endline = '\n';
     const space = ' ';
     return content.personalInformation.name + endline + endline +
-        content.position.title + space + content.work.text + endline +
+        content.position.title + space + content.position.text + endline +
         content.github.title + space + content.github.text + endline +
-        content.website.title + space + content.website.text + endline + 
         content.linkedin.title + space + content.linkedin.text;
 }
     

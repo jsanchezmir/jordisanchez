@@ -1,6 +1,6 @@
 {
   "name": "jordisanchez",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Jordi Sánchez Mir - 2020",
   "main": "./bin/card.js",
   "bin": {
@@ -13,7 +13,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Marc Garcia i Mullon",
+  "author": "Jordi Sánchez Mir",
   "license": "ISC",
   "dependencies": {
     "boxen": "^4.2.0",
