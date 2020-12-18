@@ -1,11 +1,11 @@
-Jordi Sánchez Mir 2020
+Jordi Sánchez Mir - 2021
 
-### Usage
+### How to use it
 
 ```bash
 npx jordisanchez
 ```
 
-### Output
+### This is how it looks like
 
-<!-- ![alt text](https://gitlab.com/mgm793/presentation-card/-/raw/master/assets/output.png "Output") -->
+![alt text](https://raw.githubusercontent.com/j00y/jordisanchez/master/assets/output.png "Output")
