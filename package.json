@@ -1,7 +1,7 @@
 {
   "name": "jordisanchez",
-  "version": "1.0.3",
-  "description": "Jordi Sánchez Mir - 2020",
+  "version": "1.1.0",
+  "description": "Jordi Sánchez Mir - 2021",
   "main": "./bin/card.js",
   "bin": {
     "jordisanchez": "./bin/card.js"
