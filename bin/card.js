@@ -17,7 +17,7 @@ const content = {
     },
     position: {
         title: chalk.blackBright('Position:'),
-        text: chalk.white.bold('Frontend at Seat:CODE')
+        text: chalk.white.bold('Frontend Team Lead at Seat:CODE')
     },
     email: {
         title: chalk.blackBright('Email:'),
