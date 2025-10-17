@@ -17,11 +17,11 @@ const content = {
     },
     position: {
         title: chalk.blackBright('Position:'),
-        text: chalk.white.bold('Frontend Team Lead at Seat:CODE')
+        text: chalk.white.bold('Senior Software Engineer at Glovo')
     },
     email: {
         title: chalk.blackBright('Email:'),
-        text: chalk.white.bold('jordi.sanchez@code.seat')
+        text: chalk.white.bold('jordisanchezmir@gmail.com')
     },
     mobile: {
         title: chalk.blackBright('Mobile:'),
@@ -29,7 +29,7 @@ const content = {
     },
     github: {
         title: chalk.blackBright('Github:'),
-        text: chalk.white.bold('github.com/jordisanchez-seatcode')
+        text: chalk.white.bold('github.com/jsanchezmir')
     },
     linkedin: {
         title: chalk.blackBright('Linkedin:'),
